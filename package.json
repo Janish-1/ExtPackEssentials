@@ -1,0 +1,21 @@
+{
+  "name": "allessentials",
+  "displayName": "allEssentials",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "eamodio.gitlens",
+    "GitHub.vscode-pull-request-github",
+    "ms-vscode-remote.remote-ssh",
+    "donjayamanne.githistory",
+    "mhutchie.git-graph",
+    "codezombiech.gitignore",
+    "GitHub.github-vscode-theme"
+  ]
+}
