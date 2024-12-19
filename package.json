@@ -3,7 +3,7 @@
   "displayName": "Essentials Pack",
   "description": "",
   "publisher":"JanishPancholi",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -19,6 +19,7 @@
     "github.copilot-chat",
     "codezombiech.gitignore",
     "ms-vscode.azure-account",
+    "ms-azuretools.vscode-azureresourcegroups",
     "hbenl.vscode-test-explorer",
     "GitHub.github-vscode-theme",
     "zhuangtongfa.Material-theme",
@@ -28,6 +29,7 @@
     "ms-vscode-remote.remote-ssh-edit",
     "ms-vscode-remote.remote-wsl",
     "ms-vscode.remote-explorer",
+    "ms-vscode.test-adapter-converter",
     "MS-vsliveshare.vsliveshare",
     "ms-vscode.live-server",
     "tomoki1207.pdf",
