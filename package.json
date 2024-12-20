@@ -3,7 +3,7 @@
   "displayName": "Essentials Pack",
   "description": "",
   "publisher":"JanishPancholi",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -33,6 +33,7 @@
     "MS-vsliveshare.vsliveshare",
     "ms-vscode.live-server",
     "tomoki1207.pdf",
+    "GrapeCity.gc-excelviewer",
     "VisualStudioExptTeam.vscodeintellicode",
     "formulahendry.code-runner",
     "formulahendry.auto-close-tag",
