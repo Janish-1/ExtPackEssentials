@@ -3,7 +3,7 @@
   "displayName": "Essentials Pack",
   "description": "",
   "publisher":"JanishPancholi",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -67,6 +67,10 @@
     "redhat.vscode-xml",
     "bmewburn.vscode-intelephense-client",
     "xdebug.php-debug",
+    "junstyle.php-cs-fixer",
+    "neilbrayfield.php-docblocker",
+    "mehedidracula.php-namespace-resolver",
+    "ryannaddy.laravel-artisan",
     "devsense.composer-php-vscode",
     "shufo.vscode-blade-formatter",
     "devsense.intelli-php-vscode",
