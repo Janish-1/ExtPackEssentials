@@ -18,3 +18,4 @@ To get started with the **AllEssentials Extension Pack**, follow these steps:
 2. Clone this repository:
    ```bash
    git clone https://github.com/Janish-1/AllEssentials.git
+3. Send Any Additional Extension Requests as PR or Message me them!
