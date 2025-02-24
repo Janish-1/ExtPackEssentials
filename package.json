@@ -3,7 +3,7 @@
   "displayName": "Essentials Pack",
   "description": "",
   "publisher":"JanishPancholi",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -71,7 +71,6 @@
     "microsoft.sql",
     "microsoft.vscode-mssql",
     "mtxr.sqltools",
-    "cweijan.vscode-mysql-client2",
     "microsoft.vscode-postgresql",
     "prisma.prisma",
     "ms-ossdata.vscode-postgresql",
